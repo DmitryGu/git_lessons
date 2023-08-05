@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comands.md",
+                "file": "Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comands.md",
+                "file": "Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comands.md",
+                "file": "Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comands.md"
+                "file": "Commands.md"
               }
             }
           }
@@ -147,10 +146,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2392b8f01ca1732d",
+  "active": "fc7f70c48159fbbf",
   "lastOpenFiles": [
     "readme.md",
-    "Comands.md",
+    "Commands.md",
     "2023-08-01.md"
   ]
 }
